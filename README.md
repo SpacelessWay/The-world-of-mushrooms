@@ -8,13 +8,19 @@
 1. Установка игры.
 1)	Запустить установщик The world of mushroomsNov.msi. Установить.
 2)	Проверить работу игры. Если возникает сообщение об отсутствие Java: 
-  
+  ![image](https://github.com/SpacelessWay/The-world-of-mushrooms/assets/126497295/00e6a473-5895-43b4-b580-5096d919f3f5)
+
 1. Перейти по ссылке.
 2. Выгрузить Java
- 
+ ![image](https://github.com/SpacelessWay/The-world-of-mushrooms/assets/126497295/5eef873b-3eb0-4c98-8525-65af2153c959)
+
 3. Скачать установщик Java (JRE версией не ниже 1.8)
- 
+ ![image](https://github.com/SpacelessWay/The-world-of-mushrooms/assets/126497295/5b67ee6b-bf6f-4e80-852e-b08dfad57b0c)
+
 4. Установить Java.
+
+   ![image](https://github.com/SpacelessWay/The-world-of-mushrooms/assets/126497295/77f33190-0230-4567-b099-1dba8bec46c2)
+
  
 3)	Запустить игру.
 2. Как играть:
