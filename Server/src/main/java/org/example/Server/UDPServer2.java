@@ -49,9 +49,9 @@ public class UDPServer2 {
     public static DatagramPacket receive(DatagramPacket packet) throws Exception {
         try {
             datagramSocket.receive(packet);
-            System.out.println("Port "+packet.getPort()+packet.getSocketAddress());
+            //System.out.println("Port "+packet.getPort()+packet.getSocketAddress());
             a.broc_cli(packet);
-            System.out.println("Yes");
+            //System.out.println("Yes");
             return packet;
         } catch (Exception e) {
             throw e;
@@ -81,7 +81,7 @@ public class UDPServer2 {
      */
     public void send() {
         try {
-            System.out.println("response");
+            //System.out.println("response");
             a.for_cli(ports);
         } catch (Exception e) {
             e.printStackTrace();

@@ -38,7 +38,7 @@ public class GameScreen implements Screen {
     String Nick ;
     int kol;
     BitmapFont font;
-    private int time=30;
+    private int time=90;
     Texture back;
 
 
